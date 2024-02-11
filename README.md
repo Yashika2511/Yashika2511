@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yashika2511
-- 👀 I’m interested in artificial intelligence..
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in artificial intelligence
 - 
 
 <!---
