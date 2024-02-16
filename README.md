@@ -1,9 +1,12 @@
-<h1 align="center">👋 Hello, I'm Yashika </h1>
+# Hi there, I'm Yashika Arya! 👋
+### Software Engineer | BTech Engineering Student
+
+🌱 I'm currently learning and working on Machine Learning and Artificial Intelligence.
+
+💻 I'm proficient in the MERN stack.
 
 
-
-
-🔗 Connect with me on : 
+🔗 Connect with me : 
     <a href="www.linkedin.com/in/yashika-arya-05a5b022b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" /></a> 
 
 
