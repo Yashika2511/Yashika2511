@@ -1,5 +1,5 @@
 # Hi there, I'm Yashika Arya! 👋
-### Software Engineer | BTech Engineering Student
+### Web Developer 
 
 🌱 I'm currently learning and working on Machine Learning and Artificial Intelligence.
 
