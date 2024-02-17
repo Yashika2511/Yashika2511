@@ -1,7 +1,12 @@
 # Hi there, I'm Yashika Arya! 👋
 ### Web Developer 
 
+📚 Pursuing Bachelor's in Artificial Intelligence and Data Science.
+
 🌱 I'm currently learning and working on Machine Learning and Artificial Intelligence.
+
+🍀 Learning and building projects using the MERN Stack ( MongoDB, ExpressJs, ReactJs, NodeJs).
+
 
 💻 I'm proficient in the MERN stack.
 
@@ -12,7 +17,7 @@
 
 📫 Reach out to me at aryayashika34@gmail.com
 
-📝 Check out my projects and contributions below!
+✨ Constantly Iterating, Always Improving.
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
