@@ -1,7 +1,9 @@
 # Hi there, I'm Yashika Arya! 👋
-### Web Developer 
+### MERN Stack Developer | AI and ML Enthusiast 
 
 📚 Pursuing Bachelor's in Artificial Intelligence and Data Science.
+
+✨ Passionate about advancing Artificial intelligence to solve real world problems and enhance humnan Lives.
 
 🌱 I'm currently learning and working on Machine Learning and Artificial Intelligence.
 
