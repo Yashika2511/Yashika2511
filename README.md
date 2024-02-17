@@ -3,7 +3,7 @@
 
 📚 Pursuing Bachelor's in Artificial Intelligence and Data Science.
 
-✨ Passionate about advancing Artificial intelligence to solve real world problems and enhance humnan Lives.
+✨ Passionate about advancing Artificial intelligence to solve real world problems and enhance human Lives.
 
 🌱 I'm currently learning and working on Machine Learning and Artificial Intelligence.
 
