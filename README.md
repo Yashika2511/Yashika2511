@@ -1,5 +1,5 @@
 # Hi there, I'm Yashika Arya! 👋
-### MERN Stack Developer | AI and ML Enthusiast 
+### MERN Stack Developer | AI and ML Practitioner 
 
 📚 Pursuing Bachelor's in Artificial Intelligence and Data Science.
 
